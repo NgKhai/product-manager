@@ -445,7 +445,7 @@ const sanitizeInput = (req, res, next) => {
 
 ## Reporting Security Issues
 
-If you discover a security vulnerability, please email [security@yourcompany.com](mailto:security@yourcompany.com).
+If you discover a security vulnerability, please email [nguyenkhai1470@gmail.com](mailto:nguyenkhai1470@gmail.com).
 
 **Do not** create public GitHub issues for security vulnerabilities.
 
