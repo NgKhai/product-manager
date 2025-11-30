@@ -70,7 +70,7 @@ rest-api/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/rest-api.git
+git clone https://github.com/NgKhai/product-manager.git
 cd rest-api
 ```
 
