@@ -1,6 +1,6 @@
 # Product Manager - Full Stack MERN Application
 
-A robust, production-ready Product Management System built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates a complete full-stack workflow including authentication, role-based access control, CRUD operations, and cloud deployment.
+A simple, production-ready Product Management System built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates a simple full-stack workflow including authentication, role-based access control, CRUD operations, and cloud deployment.
 
 ## 🚀 Live Demo
 
