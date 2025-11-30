@@ -1,6 +1,6 @@
 # Product Manager - Full Stack MERN Application
 
-A robust, production-ready Product Management System built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates a complete full-stack workflow including authentication, role-based access control, CRUD operations, and cloud deployment.
+A simple, production-ready Product Management System built with the MERN stack (MongoDB, Express, React, Node.js). This project demonstrates a simple full-stack workflow including authentication, role-based access control, CRUD operations, and cloud deployment.
 
 ## 🚀 Live Demo
 
@@ -70,7 +70,7 @@ rest-api/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/rest-api.git
+git clone https://github.com/NgKhai/product-manager.git
 cd rest-api
 ```
 
@@ -92,9 +92,6 @@ npm run dev
 ```bash
 cd ../frontend
 npm install
-
-# Create .env file
-echo "VITE_API_BASE_URL=http://localhost:5000" > .env
 
 npm run dev
 ```
